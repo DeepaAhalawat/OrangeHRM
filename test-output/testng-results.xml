@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[1025 1025]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23753" started-at="2021-07-12T16:13:51 IST" finished-at="2021-07-12T16:14:15 IST">
+  <suite name="Default suite" duration-ms="50655" started-at="2021-07-15T13:04:26 IST" finished-at="2021-07-15T13:05:17 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23753" started-at="2021-07-12T16:13:51 IST" finished-at="2021-07-12T16:14:15 IST">
+    <test name="Default test" duration-ms="50655" started-at="2021-07-15T13:04:26 IST" finished-at="2021-07-15T13:05:17 IST">
       <class name="DriverFactory.AppTest">
-        <test-method status="PASS" signature="apptest()[pri:0, instance:DriverFactory.AppTest@49c43f4e]" name="apptest" duration-ms="23603" started-at="2021-07-12T16:13:51 IST" finished-at="2021-07-12T16:14:15 IST">
+        <test-method status="PASS" signature="apptest()[pri:0, instance:DriverFactory.AppTest@49c43f4e]" name="apptest" duration-ms="50570" started-at="2021-07-15T13:04:26 IST" finished-at="2021-07-15T13:05:17 IST">
           <reporter-output>
+            <line>
+              <![CDATA[1025 1025]]>
+            </line>
           </reporter-output>
         </test-method> <!-- apptest -->
       </class> <!-- DriverFactory.AppTest -->
